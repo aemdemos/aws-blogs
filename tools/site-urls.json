@@ -3,6 +3,12 @@
   "lastCrawled": "https://aws.amazon.com/blogs/",
   "urls": [
     {
+      "url": "https://aws.amazon.com/blogs/",
+      "source": "CRAWL",
+      "targetPath": "/blogs",
+      "id": "1f0375dbe66cc44e0b6fbd2376e605cf0516f7d1"
+    },
+    {
       "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-advanced-parsing-chunking-and-query-reformulation-giving-greater-control-of-accuracy-in-rag-based-applications/",
       "source": "CRAWL",
       "targetPath": "/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-advanced-parsing-chunking-and-query-reformulation-giving-greater-control-of-accuracy-in-rag-based-applications",
