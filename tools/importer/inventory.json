@@ -20,7 +20,7 @@
           "url": "https://aws.amazon.com/blogs/awsmarketplace/category/alexa/",
           "urlHash": "0ef7dee18a0e85631701320d9f7b3d3ebb91cd17",
           "uuid": "0ef7dee1-00-361c90dd0215863cfdc34206559c1d5b65708994",
-          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]"
+          "xpath": "/html[1]/body[1]/header[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/security/tag/high/",
@@ -92,7 +92,7 @@
           "url": "https://aws.amazon.com/blogs/business-productivity/tag/multi-region/",
           "urlHash": "4d975c46d2b576b88ea466adf1820336a48a3b40",
           "uuid": "4d975c46-00-361c90dd0215863cfdc34206559c1d5b65708994",
-          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]"
+          "xpath": "/html[1]/body[1]/header[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/media/part-3-live-and-vod-to-live-hdr-workflows-on-aws/",
@@ -104,7 +104,7 @@
           "url": "https://aws.amazon.com/blogs/awsforsap/tag/aws/",
           "urlHash": "543a13276dd1051736afea4b82a55424c5100d79",
           "uuid": "543a1327-00-361c90dd0215863cfdc34206559c1d5b65708994",
-          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]"
+          "xpath": "/html[1]/body[1]/header[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/apn/unifying-cloud-infrastructure-and-application-performance-data-with-appdynamics-and-amazon-cloudwatch/",
@@ -170,13 +170,13 @@
           "url": "https://aws.amazon.com/blogs/quantum-computing/community-detection-in-complex-networks-using-hybrid-quantum-annealing-on-amazon-braket-part-i/",
           "urlHash": "750b4b97776bbf96fc586aa959c64e895da6f6d8",
           "uuid": "750b4b97-00-361c90dd0215863cfdc34206559c1d5b65708994",
-          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]"
+          "xpath": "/html[1]/body[1]/header[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/modernizing-with-aws/know-your-aws-options-for-microsoft-windows-server-2012-end-of-support/",
           "urlHash": "778267d4d4d252e0518c2e607de70138f387f779",
           "uuid": "778267d4-00-361c90dd0215863cfdc34206559c1d5b65708994",
-          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]"
+          "xpath": "/html[1]/body[1]/header[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/machine-learning/an-introduction-to-preparing-your-own-dataset-for-llm-training/",
@@ -344,7 +344,7 @@
           "url": "https://aws.amazon.com/blogs/iot/tag/aws-iot/",
           "urlHash": "f8498a0e5a497430947450504c4130948c42e498",
           "uuid": "f8498a0e-00-361c90dd0215863cfdc34206559c1d5b65708994",
-          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]"
+          "xpath": "/html[1]/body[1]/header[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/aws/get-ready-for-aws-reinvent-2017/",
@@ -368,7 +368,7 @@
           "url": "https://aws.amazon.com/blogs/modernizing-with-aws/datavail-modernizing-databases-on-aws/",
           "urlHash": "ffa887b89d054f3573a0d21218d6a7c8cfba697e",
           "uuid": "ffa887b8-00-361c90dd0215863cfdc34206559c1d5b65708994",
-          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/nav[1]/div[1]"
+          "xpath": "/html[1]/body[1]/header[1]"
         }
       ]
     },
@@ -380,13 +380,13 @@
           "url": "https://aws.amazon.com/blogs/devops/balancing-governance-and-agility-with-aws-codebuild/",
           "urlHash": "05bf38a07df93e6df3b3954487f9d3a206bd46b3",
           "uuid": "05bf38a0-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/networking-and-content-delivery/hybrid-security-inspection-architectures-with-aws-cloud-wan-and-aws-direct-connect/",
           "urlHash": "05d5891654a19814b319d4fc08c6a7cca15a9e51",
           "uuid": "05d58916-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/awsmarketplace/category/alexa/",
@@ -398,67 +398,67 @@
           "url": "https://aws.amazon.com/blogs/security/tag/high/",
           "urlHash": "102b325d24f1a50cfb13e567d047deed2402f281",
           "uuid": "102b325d-09-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/publicsector/large-scale-ai-digital-pathology-without-heavy-lifting/",
           "urlHash": "138de46f433980954d4c3c6cb8a4c198276dba64",
           "uuid": "138de46f-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/messaging-and-targeting/category/messaging/amazon-simple-email-service-ses/page/6/",
           "urlHash": "25b33b5c5e847dc8abe4f8161e59521f85d7179a",
           "uuid": "25b33b5c-17-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/publicsector/whats-new-for-aws-storage-ingestion-services-from-reinvent-2016/",
           "urlHash": "2ef73ec31e406d75d2a388b460dc39ea5f32126c",
           "uuid": "2ef73ec3-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-advanced-parsing-chunking-and-query-reformulation-giving-greater-control-of-accuracy-in-rag-based-applications/",
           "urlHash": "30595280d94d804d5db425db710147d8ae592d12",
           "uuid": "30595280-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/aws/now-available-in-amazon-sagemaker-ec2-p3dn-gpu-instances/",
           "urlHash": "321ab0eb448aa913bacdd0fe557aa5ad378af476",
           "uuid": "321ab0eb-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/industries/tag/management-information/",
           "urlHash": "380f0675bb57246ed1a92648f1f886bba4bb59b4",
           "uuid": "380f0675-07-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/security/automatically-resolve-security-hub-findings-for-resources-that-no-longer-exist/",
           "urlHash": "39130bd18fdf1948e4d63885cb0e169265fd00db",
           "uuid": "39130bd1-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/aws/forcecom-for-amazon-web-services/",
           "urlHash": "3e64343bca445bb747f1cffb80461601c67c9501",
           "uuid": "3e64343b-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/mobile/get-started-with-the-aws-device-farm-cli-and-calabash-part-1-creating-a-device-farm-run-for-android-calabash-test-scripts/",
           "urlHash": "3ed8f883619d5db5ee20d87c659c37c21b220e22",
           "uuid": "3ed8f883-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/aws/author/lmv/",
           "urlHash": "42b85a5727cb153c0580862c9dc211247a0aff0a",
           "uuid": "42b85a57-15-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/business-productivity/tag/multi-region/",
@@ -470,7 +470,7 @@
           "url": "https://aws.amazon.com/blogs/media/part-3-live-and-vod-to-live-hdr-workflows-on-aws/",
           "urlHash": "53130962ff9a9dba31b2ff5c1b1617c7693575fc",
           "uuid": "53130962-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/awsforsap/tag/aws/",
@@ -482,61 +482,61 @@
           "url": "https://aws.amazon.com/blogs/apn/unifying-cloud-infrastructure-and-application-performance-data-with-appdynamics-and-amazon-cloudwatch/",
           "urlHash": "59ad6729ef307e2993ed81647399ca8b810d58f4",
           "uuid": "59ad6729-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/architecture/field-notes-automate-saml-2-0-federation-using-aws-control-tower-and-azure-active-directory/",
           "urlHash": "5a54a6ea9f15c60db45adcda51db4ac2abacadab",
           "uuid": "5a54a6ea-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/database/tag/amazon-elasticache/",
           "urlHash": "5b47bf0d3193d1402c602c4e1c618696942519db",
           "uuid": "5b47bf0d-17-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/mobile/amplify-flutter-announces-general-availability-for-web-and-desktop-support/",
           "urlHash": "62837f46dc00e60fe24d2cccd96a251318350fff",
           "uuid": "62837f46-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/messaging-and-targeting/category/messaging/amazon-simple-email-service-ses/page/8/",
           "urlHash": "648177c91ac372d8627ced53da375b4528615ff2",
           "uuid": "648177c9-17-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/containers/tag/availability-zones/",
           "urlHash": "6895bac26b9efebaddc1ac38852a61934fa1f49b",
           "uuid": "6895bac2-07-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/publicsector/tag/data-lakes/page/2/",
           "urlHash": "6c64ac206ca7dc2123de592c3065e039b954b5f0",
           "uuid": "6c64ac20-17-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/apn/tag/application-integration/",
           "urlHash": "6f4274a5ee532977a80b43bb9f13f64e526eab2b",
           "uuid": "6f4274a5-09-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/media/tag/fuji-tv/",
           "urlHash": "701997c24c66c9f8a665bb96904ea0f6b60ef5d5",
           "uuid": "701997c2-07-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/containers/aws-fargate-launches-platform-version-1-4/",
           "urlHash": "71d7174d0b89eb02e706b61644b8be84f0df94c6",
           "uuid": "71d7174d-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/quantum-computing/community-detection-in-complex-networks-using-hybrid-quantum-annealing-on-amazon-braket-part-i/",
@@ -560,55 +560,55 @@
           "url": "https://aws.amazon.com/blogs/media/tag/well-architected-review/",
           "urlHash": "7c3bb3a05b8133a3edd5338c448891f27f55d558",
           "uuid": "7c3bb3a0-07-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/database/tag/mongodb-compatibility/",
           "urlHash": "80474f90108cbe6f33683c05046cf636dbabcb39",
           "uuid": "80474f90-09-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/messaging-and-targeting/category/messaging/amazon-simple-email-service-ses/page/4/",
           "urlHash": "829552f4e08c90dbcfc106a603d4d075c2286c46",
           "uuid": "829552f4-17-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/messaging-and-targeting/category/messaging/amazon-simple-email-service-ses/page/5/",
           "urlHash": "8501f7b398abf9784dcf8077bf7376a94f08f7de",
           "uuid": "8501f7b3-17-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/storage/managing-storage-on-windows-servers-with-amazon-fsx-for-netapp-ontap/",
           "urlHash": "8d9652081f38a97942389afc898978148e074e95",
           "uuid": "8d965208-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/mobile/tag/nextjs/",
           "urlHash": "8e7bac842082f05049c4d944f922323fcc8913fc",
           "uuid": "8e7bac84-11-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/publicsector/tag/data-lakes/page/3/",
           "urlHash": "980c9dc039022f9b30a49fc34c7ccabea400d477",
           "uuid": "980c9dc0-11-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/aws/amazon-translate-now-supports-office-documents/",
           "urlHash": "98c192aa5444084b2da64dea5b42e90d350b2fc8",
           "uuid": "98c192aa-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/media/tag/nomad-cms/",
           "urlHash": "a72953ffa92c3beae0a96ddd3935b1565a881bf2",
           "uuid": "a72953ff-08-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/contact-center/tag/syed-rehan/",
@@ -620,43 +620,43 @@
           "url": "https://aws.amazon.com/blogs/security/tag/office-365/",
           "urlHash": "ae4293d0ad579d1d3b29462402eb57f226f1623e",
           "uuid": "ae4293d0-11-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/aws/2008-aws-startup-challenge-finalists/",
           "urlHash": "ae741a050e55cc4f1d51e8c3b8b6158624d0a466",
           "uuid": "ae741a05-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/compute/category/artificial-intelligence/aws-inferentia/",
           "urlHash": "b57f35e9df4f139e87f1a7efe373b932eb6ec829",
           "uuid": "b57f35e9-07-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/big-data/how-fresenius-medical-care-aims-to-save-dialysis-patient-lives-using-real-time-predictive-analytics-on-aws/",
           "urlHash": "b9a51d534337a2018c2ade83a42a10118e65acf9",
           "uuid": "b9a51d53-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/machine-learning/automate-cloud-security-vulnerability-assessment-and-alerting-using-amazon-bedrock/",
           "urlHash": "c0f0863b13b4ad6970747820d225a7a2990bf357",
           "uuid": "c0f0863b-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/messaging-and-targeting/category/messaging/amazon-simple-email-service-ses/page/9/",
           "urlHash": "c244194d893c28cb025fce02243aa2df73b5f624",
           "uuid": "c244194d-17-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/database/tag/contact-tracing/",
           "urlHash": "c7d9324ef3f196b1ed3ac3192a55166f7d2baf6c",
           "uuid": "c7d9324e-07-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/",
@@ -668,49 +668,49 @@
           "url": "https://aws.amazon.com/blogs/mt/alarms-incident-management-and-remediation-in-the-cloud-with-amazon-cloudwatch/",
           "urlHash": "d19e553a01300c2bcd14f7ac56494c8797b27ef8",
           "uuid": "d19e553a-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/messaging-and-targeting/category/messaging/amazon-simple-email-service-ses/page/7/",
           "urlHash": "d5fa51bf0443d25e21afad6805d46168cee2ffd5",
           "uuid": "d5fa51bf-17-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/apn/tag/dxc-technology/",
           "urlHash": "d925c4a9cab6b38a96e88461135b05c50a540f09",
           "uuid": "d925c4a9-17-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/security/tag/hids/",
           "urlHash": "e2c270c629402e8263690d25994cc907960ef9cd",
           "uuid": "e2c270c6-08-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/apn/category/security-identity-compliance/aws-organizations/page/2/",
           "urlHash": "e6f5f36b80496b7fe84781c5aaa8b2210f2f37ae",
           "uuid": "e6f5f36b-10-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/aws/additional-reserved-instance-options-for-the-relational-database-service/",
           "urlHash": "ea046e59804fe7753cae0173b3171fdd908ac059",
           "uuid": "ea046e59-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/security/announcing-an-update-to-iam-role-trust-policy-behavior/",
           "urlHash": "f6dcdf589066e9f3378ac485346a3b773afbeb43",
           "uuid": "f6dcdf58-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/machine-learning/customizing-coding-companions-for-organizations/",
           "urlHash": "f7af1b09aa86b3c5f81478c25b159a43f4a7ca0f",
           "uuid": "f7af1b09-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/iot/tag/aws-iot/",
@@ -722,19 +722,19 @@
           "url": "https://aws.amazon.com/blogs/aws/get-ready-for-aws-reinvent-2017/",
           "urlHash": "fa40f273bd334fcacf11a1f6ca82625b2c75d6c4",
           "uuid": "fa40f273-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/media/category/storage/aws-snowball/",
           "urlHash": "fb46da35f7c818e5bba1a6cdc650cfc47353fb37",
           "uuid": "fb46da35-13-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/opensource/diving-into-oci-image-and-distribution-1-1-support-in-amazon-ecr/",
           "urlHash": "fbd5c805189f3cc054a8f7f6f9ba2f04793c9246",
           "uuid": "fbd5c805-05-d4ba30a47edf3ea74181b879fc36ec344a18cfce",
-          "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/div[4]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/modernizing-with-aws/datavail-modernizing-databases-on-aws/",
