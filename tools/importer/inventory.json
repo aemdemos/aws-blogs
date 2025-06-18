@@ -290,7 +290,7 @@
           "url": "https://aws.amazon.com/blogs/",
           "urlHash": "c93a80fda71d0e4d4b11bea31ca37edf6a6ec96c",
           "uuid": "c93a80fd-00-70928af0e9d7f0ac1f13f2d60f543d2cf08783dd",
-          "xpath": "/html[1]/body[1]/header[1]/div[1]"
+          "xpath": "/html[1]/body[1]/header[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/mt/alarms-incident-management-and-remediation-in-the-cloud-with-amazon-cloudwatch/",
@@ -662,7 +662,7 @@
           "url": "https://aws.amazon.com/blogs/",
           "urlHash": "c93a80fda71d0e4d4b11bea31ca37edf6a6ec96c",
           "uuid": "c93a80fd-08-3f63bc012832d8531eae46ee6495243f9c4361f9",
-          "xpath": "/html[1]/body[1]/footer[1]/div[3]"
+          "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/mt/alarms-incident-management-and-remediation-in-the-cloud-with-amazon-cloudwatch/",
@@ -1826,12 +1826,6 @@
           "urlHash": "c7d9324ef3f196b1ed3ac3192a55166f7d2baf6c",
           "uuid": "c7d9324e-05-8f8ed93bcea88cda56acbc21038d1a54226a70e2",
           "xpath": "/html[1]/body[1]/div[4]/footer[1]/div[1]"
-        },
-        {
-          "url": "https://aws.amazon.com/blogs/",
-          "urlHash": "c93a80fda71d0e4d4b11bea31ca37edf6a6ec96c",
-          "uuid": "c93a80fd-06-8432047a6065c3f16241857848a3c7b0988274fc",
-          "xpath": "/html[1]/body[1]/footer[1]/div[1]"
         },
         {
           "url": "https://aws.amazon.com/blogs/mt/alarms-incident-management-and-remediation-in-the-cloud-with-amazon-cloudwatch/",
