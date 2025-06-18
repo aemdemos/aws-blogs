@@ -25,3 +25,125 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+.cards.cards34 {
+  /* No declarations in base or generated, but merged block must appear here for completeness */
+}
+
+.cards.cards34 > ul {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+
+.cards.cards34 > ul > li {
+  background: #fff;
+  border: 2px solid #d1d5db;
+  box-sizing: border-box;
+  width: 380px;
+  min-width: 380px;
+  max-width: 380px;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  min-height: 420px;
+}
+
+.cards.cards34 .cards-card-body:first-child {
+  height: 100px;
+  background-color: #e5e7eb;
+  margin: 0;
+  padding: 0;
+  border-bottom: none;
+  flex-shrink: 0;
+}
+
+.cards.cards34 .cards-card-body h4 {
+  color: #0073bb;
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0 0 12px;
+  line-height: 1.2;
+  text-align: left;
+  font-family: var(--heading-font-family);
+}
+
+.cards.cards34 .cards-card-body:last-child > h4,
+.cards.cards34 .cards-card-body:last-child > h4:first-child {
+  margin-top: 0;
+}
+
+.cards.cards34 .cards-card-body h4 a {
+  color: #0073bb;
+  text-decoration: none;
+}
+
+.cards.cards34 .cards-card-body h4 a:hover,
+.cards.cards34 .cards-card-body h4 a:focus {
+  text-decoration: underline;
+}
+
+.cards.cards34 .cards-card-body p {
+  color: #222;
+  font-size: 16px;
+  margin: 0 0 10px;
+  line-height: 1.5;
+  text-align: left;
+  font-weight: 400;
+}
+
+.cards.cards34 .cards-card-body .button-container {
+  margin-top: 12px;
+  margin-bottom: 4px;
+}
+
+.cards.cards34 .cards-card-body:last-child {
+  padding: 8px 20px;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  background: none;
+  margin: 0;
+}
+
+.cards.cards34 .cards-card-body .button-container a.button {
+  display: inline;
+  background: none;
+  border: none;
+  color: #0073bb;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: underline;
+  border-radius: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-align: left;
+  line-height: 1.5;
+  cursor: pointer;
+}
+
+.cards.cards34 .cards-card-body .button-container a.button:hover,
+.cards.cards34 .cards-card-body .button-container a.button:focus {
+  color: #005b99;
+  background: none;
+  text-decoration: underline;
+}
+
+@media (width <= 1200px) {
+  .cards.cards34 > ul {
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .cards.cards34 > ul > li {
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
+}
