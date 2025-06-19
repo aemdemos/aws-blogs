@@ -23,7 +23,6 @@
 
 .cards > ul > li img {
   width: 100%;
-  aspect-ratio: 4 / 3;
   object-fit: cover;
 }
 
@@ -139,6 +138,11 @@
   color: #005b99;
   background: none;
   text-decoration: underline;
+}
+
+.cards.cards34 .cards-card-image {
+  line-height: 0;
+  padding: 10px;
 }
 
 /* Tablet and small desktop responsive adjustments */

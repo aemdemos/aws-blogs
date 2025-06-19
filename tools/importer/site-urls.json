@@ -9,6 +9,21 @@
       "id": "c93a80fda71d0e4d4b11bea31ca37edf6a6ec96c"
     },
     {
+      "url": "https://aws.amazon.com/blogs/aws/announcing-up-to-45-price-reduction-for-amazon-ec2-nvidia-gpu-accelerated-instances/",
+      "source": "CRAWL",
+      "targetPath": "/blogs/aws/announcing-up-to-45-price-reduction-for-amazon-ec2-nvidia-gpu-accelerated-instances/"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws-insights/the-rise-of-autonomous-agents-what-enterprise-leaders-need-to-know-about-the-next-wave-of-ai/",
+      "source": "CRAWL",
+      "targetPath": "/blogs/aws-insights/the-rise-of-autonomous-agents-what-enterprise-leaders-need-to-know-about-the-next-wave-of-ai/"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/aws-reinforce-roundup-2025-top-announcements/",
+      "source": "CRAWL",
+      "targetPath": "/blogs/aws/aws-reinforce-roundup-2025-top-announcements/"
+    },
+    {
       "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-advanced-parsing-chunking-and-query-reformulation-giving-greater-control-of-accuracy-in-rag-based-applications/",
       "source": "CRAWL",
       "targetPath": "/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-advanced-parsing-chunking-and-query-reformulation-giving-greater-control-of-accuracy-in-rag-based-applications/",
