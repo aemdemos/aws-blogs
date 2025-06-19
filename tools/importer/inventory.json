@@ -2763,21 +2763,6 @@
       ]
     },
     {
-      "name": "Table (bordered)",
-      "cluster": 27,
-      "source": "Table (bordered)",
-      "target": "Table (bordered, tableBordered27)",
-      "key": "tableBordered27",
-      "instances": [
-        {
-          "url": "https://aws.amazon.com/blogs/",
-          "urlHash": "c93a80fda71d0e4d4b11bea31ca37edf6a6ec96c",
-          "uuid": "c93a80fd-02-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
-        }
-      ]
-    },
-    {
       "name": "Columns",
       "cluster": 28,
       "source": "Columns",
@@ -2830,10 +2815,10 @@
       "key": "hero31",
       "instances": [
         {
-          "url": "https://aws.amazon.com/blogs/modernizing-with-aws/know-your-aws-options-for-microsoft-windows-server-2012-end-of-support/",
-          "urlHash": "778267d4d4d252e0518c2e607de70138f387f779",
-          "uuid": "778267d4-03-6419c5482dba87d55497e10067ddb965e78fe885",
-          "xpath": "/html[1]/body[1]/div[2]"
+          "url": "https://aws.amazon.com/blogs/",
+          "urlHash": "c93a80fda71d0e4d4b11bea31ca37edf6a6ec96c",
+          "uuid": "c93a80fd-02-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
         }
       ]
     },
