@@ -74,13 +74,11 @@
 body {
   display: none;
   margin: 0;
-  padding-top: var(--nav-height);
   background-color: var(--background-color);
   color: var(--text-color);
   font-family: var(--body-font-family);
   font-size: var(--body-font-size-m);
   line-height: 1.6;
-  min-height: 100vh;
 }
 
 body.appear {
@@ -89,11 +87,6 @@ body.appear {
 
 header {
   height: var(--nav-height);
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 1000;
 }
 
 header .header,
@@ -148,10 +141,6 @@ pre {
   background-color: var(--light-color);
   overflow-x: auto;
   white-space: pre;
-}
-
-main {
-  margin-top: var(--nav-height);
 }
 
 main > div {

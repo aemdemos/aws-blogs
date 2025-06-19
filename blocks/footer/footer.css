@@ -1,5 +1,5 @@
 footer {
-  background-color: #232f3e; /* AWS dark blue */
+  background-color: #141f2e; /* AWS dark blue */
   color: #fff;
   font-size: 16px;
   padding: 40px 0 0 0;
@@ -98,7 +98,7 @@ footer {
   .footer > div {
     column-count: 1;
   }
-  
+
   .footer {
     padding: 24px 12px;
   }

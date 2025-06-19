@@ -3,14 +3,14 @@
   --aws-orange: #ff9900;
   --aws-dark-blue: #232f3e;
   --aws-light-blue: #146eb4;
-  --aws-navy: #232f3e;
+  --aws-navy: #141f2e;
   --aws-text-white: #ffffff;
   --aws-text-gray: #879196;
   --aws-border-gray: #373a3c;
-  --aws-hover-blue: #146eb4;
+  --aws-hover-blue: #0972d3;
   /* Update header height to accommodate our 3-row layout */
-  --nav-height: 140px;
-  --header-height: 140px;
+  --nav-height: 64px;
+  --header-height: 64px;
 }
 
 /* Header wrapper */
@@ -44,7 +44,7 @@ header nav .nav-brand .default-content-wrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 12px 16px;
+  padding: 12px 32px 0 32px;
   max-width: none;
   width: 100%;
   min-height: 48px;
@@ -114,13 +114,12 @@ header nav .nav-brand .default-content-wrapper ul li strong {
   transition: all 0.2s ease;
   font-weight: 400;
   white-space: nowrap;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 header nav .nav-brand .default-content-wrapper ul li a:hover,
 header nav .nav-brand .default-content-wrapper ul li strong:hover {
-  background-color: var(--aws-hover-blue);
-  color: var(--aws-text-white);
+  color: var(--aws-hover-blue);
 }
 
 header nav .nav-brand .default-content-wrapper ul li strong {
@@ -135,18 +134,18 @@ header nav .nav-brand .default-content-wrapper ul li strong::after {
 }
 
 /* Create AWS Account button styling - WHITE BUTTON */
-header nav .nav-brand .default-content-wrapper ul li:has(a[title*="Create an AWS Account"]) {
+header nav .nav-brand .default-content-wrapper ul li:last-child {
   margin-left: 4px;
 }
 
-header nav .nav-brand .default-content-wrapper ul li:has(a[title*="Create an AWS Account"]) a {
+header nav .nav-brand .default-content-wrapper ul li:last-child a {
   background-color: #ffffff;
   color: #232f3e;
   font-weight: 600;
-  padding: 4px 10px;
-  border-radius: 12px;
+  padding: 4px 16px;
+  border-radius: 16px;
   border: 1px solid #ffffff;
-  font-size: 12px;
+  font-size: 13px;
   white-space: nowrap;
 }
 
@@ -166,8 +165,8 @@ header nav .nav-sections .default-content-wrapper {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  padding: 0 16px;
-  height: 60px;
+  padding: 0 32px 4px 32px;
+  height: 48px;
   max-width: none;
   width: 100%;
   overflow: visible;
@@ -202,16 +201,15 @@ header nav .nav-sections .default-content-wrapper ul li a {
 }
 
 header nav .nav-sections .default-content-wrapper ul li a:hover {
-  background-color: var(--aws-hover-blue);
-  color: var(--aws-text-white);
+    color: var(--aws-hover-blue);
 }
 
 /* Amazon Q button styling - Purple gradient */
 header nav .nav-sections .default-content-wrapper ul li:first-child a {
-  background: linear-gradient(135deg, #8b5cf6, #a855f7);
+  background: linear-gradient(90deg,#a000b8,#5724ff 50%,#003efa);
   color: white;
-  padding: 8px 20px;
-  border-radius: 8px;
+  padding: 8px 12px;
+  border-radius: 4px;
   font-size: 14px;
   font-weight: 600;
 }
@@ -219,7 +217,7 @@ header nav .nav-sections .default-content-wrapper ul li:first-child a {
 header nav .nav-sections .default-content-wrapper ul li:first-child a:hover {
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);
-  background: linear-gradient(135deg, #7c3aed, #9333ea);
+  background: linear-gradient(90deg,#f299ff,#b2a8ff 50%,#94afff);
   color: white;
 }
 
@@ -253,16 +251,15 @@ header nav .nav-tools .default-content-wrapper ul li a,
 header nav .nav-tools .default-content-wrapper ul li strong {
   color: #232f3e;
   text-decoration: none;
-  font-size: 14px;
-  font-weight: 400;
+  font-size: 13px;
+  font-weight: 600;
   padding: 6px 8px;
   border-radius: 4px;
   transition: all 0.2s ease;
 }
 
 header nav .nav-tools .default-content-wrapper ul li a:hover {
-  background-color: var(--aws-hover-blue);
-  color: var(--aws-text-white);
+    color: var(--aws-hover-blue);
 }
 
 header nav .nav-tools .default-content-wrapper ul li strong {
@@ -271,8 +268,7 @@ header nav .nav-tools .default-content-wrapper ul li strong {
 }
 
 header nav .nav-tools .default-content-wrapper ul li strong:hover {
-  background-color: var(--aws-hover-blue);
-  color: var(--aws-text-white);
+    color: var(--aws-hover-blue);
 }
 
 header nav .nav-tools .default-content-wrapper ul li strong::after {
@@ -343,7 +339,7 @@ header nav[aria-expanded='true'] .nav-hamburger-icon::after {
   header nav .nav-brand .default-content-wrapper ul {
     gap: 3px;
   }
-  
+
   header nav .nav-sections .default-content-wrapper ul {
     gap: 14px;
   }
@@ -353,7 +349,7 @@ header nav[aria-expanded='true'] .nav-hamburger-icon::after {
   header nav .nav-brand .default-content-wrapper ul {
     max-width: 65%;
   }
-  
+
   header nav .nav-brand .default-content-wrapper ul li:has(a[title*="Create an AWS Account"]) a {
     padding: 4px 8px;
   }
@@ -364,12 +360,12 @@ header nav[aria-expanded='true'] .nav-hamburger-icon::after {
     max-width: 60%;
     gap: 2px;
   }
-  
+
   header nav .nav-brand .default-content-wrapper ul li a,
   header nav .nav-brand .default-content-wrapper ul li strong {
     padding: 4px 4px;
   }
-  
+
   header nav .nav-brand .default-content-wrapper ul li:has(a[title*="Create an AWS Account"]) a {
     padding: 4px 6px;
   }
@@ -380,11 +376,11 @@ header nav[aria-expanded='true'] .nav-hamburger-icon::after {
     --nav-height: 156px;
     --header-height: 156px;
   }
-  
+
   header nav .nav-brand .default-content-wrapper {
     min-height: 72px;
   }
-  
+
   header nav .nav-brand .default-content-wrapper ul {
     max-width: 100%;
     gap: 4px;
@@ -485,7 +481,7 @@ header nav[aria-expanded='true'] .nav-hamburger-icon::after {
   body:has(header nav[aria-expanded='true']) {
     overflow: hidden;
   }
-  
+
   /* Mobile header height */
   :root {
     --nav-height: 64px;
