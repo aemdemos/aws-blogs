@@ -1,3 +1,4 @@
+
 .cards > ul {
   list-style: none;
   margin: 0;
@@ -25,3 +26,129 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+/* MERGED .cards.cards34 */
+.cards.cards34 {
+  background: #f7f7f7;
+  padding: 32px 0;
+}
+
+.cards.cards34 > ul {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  justify-content: flex-start;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cards.cards34 > ul > li {
+  background: #fff;
+  border: 2px solid #e1e1e1;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 375px;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  transition: box-shadow 0.2s;
+}
+
+.cards.cards34 .cards-card-image {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.cards.cards34 .cards-card-image picture,
+.cards.cards34 .cards-card-image img {
+  width: 100%;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 0;
+  display: block;
+  margin: 0;
+}
+
+.cards.cards34 .cards-card-body {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 22px 28px;
+  margin: 0;
+}
+
+.cards.cards34 .cards-card-body > h4 {
+  font-size: 20px;
+  color: #0073bb;
+  font-family: var(--heading-font-family);
+  font-weight: 700;
+  margin: 6px 0 12px;
+  line-height: 1.25;
+}
+
+.cards.cards34 .cards-card-body > h4 a {
+  color: #0073bb;
+  text-decoration: none;
+}
+
+.cards.cards34 .cards-card-body > h4 a:hover,
+.cards.cards34 .cards-card-body > h4 a:focus {
+  text-decoration: underline;
+}
+
+.cards.cards34 .cards-card-body > p:not(.button-container) {
+  color: #333;
+  font-family: var(--body-font-family);
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0 0 16px;
+  font-weight: 400;
+}
+
+.cards.cards34 .cards-card-body .button-container {
+  margin-top: auto;
+  padding-top: 8px;
+}
+
+.cards.cards34 .cards-card-body .button-container .button {
+  background: none;
+  border: none;
+  box-shadow: none;
+  color: #0073bb;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: underline;
+  border-radius: 0;
+  padding: 0;
+  margin: 0;
+  line-height: 1.3;
+  cursor: pointer;
+  display: inline;
+}
+
+.cards.cards34 .cards-card-body .button-container .button:hover,
+.cards.cards34 .cards-card-body .button-container .button:focus {
+  color: #005fa3;
+  text-decoration: underline;
+  background: none;
+}
+
+@media (width <= 1050px) {
+  .cards.cards34 > ul {
+    flex-direction: column;
+    gap: 28px;
+  }
+
+  .cards.cards34 > ul > li {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+/* END MERGED .cards.cards34 */
+
+/* Start of original generated CSS (unchanged, except for .cards.cards34 which is merged above) */
+
