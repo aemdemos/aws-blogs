@@ -140,10 +140,36 @@ function loadDelayed() {
   // load anything that can be postponed to the latest here
 }
 
+/**
+ * Apply blog article styling for blog posts
+ */
+function applyBlogStyling() {
+  // Check if this is a blog article page
+  const main = document.querySelector('main');
+  if (!main) return;
+
+  // Look for indicators this is a blog post
+  const isBlogPost =
+    window.location.pathname.includes('/blogs/');
+
+  if (isBlogPost) {
+    // Apply blog-article class to the main content
+    const firstSection = main.querySelector('.section');
+    if (firstSection) {
+      const contentDiv = firstSection.querySelector('div');
+      if (contentDiv) {
+        contentDiv.classList.add('blog-article');
+      }
+    }
+  }
+}
+
 async function loadPage() {
   await loadEager(document);
   await loadLazy(document);
   loadDelayed();
+  // Apply blog styling after page loads
+  setTimeout(applyBlogStyling, 100);
 }
 
 loadPage();
