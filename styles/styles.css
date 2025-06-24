@@ -17,7 +17,7 @@
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
   --body-font-family: "Amazon Ember", "HelveticaNeue", "Helvetica Neue", "Amazon Ember", "Roboto", "Roboto-Regular", "Amazon Ember", "Helvetica", "Arial", "sans-serif";
-  --heading-font-family: "AmazonEmberLight", "AmazonEmberLight Fallback", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+  --heading-font-family: "AmazonEmberBold", "AmazonEmberBold Fallback", "Helvetica Neue Bold", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
   --body-font-size-m: 18px;
   --body-font-size-s: 14px;
   --body-font-size-xs: 9.38px;
@@ -294,7 +294,6 @@ main .section.light, main .section.highlight {
   margin-bottom: 1rem;
   color: #232f3e;
   font-family: var(--heading-font-family);
-  letter-spacing: -0.025em;
 }
 
 .blog-article h2{
